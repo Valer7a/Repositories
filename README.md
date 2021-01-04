@@ -17,4 +17,4 @@ This repository is intended to collect the links bringing to all my projects ava
 
 ### Developed with Mathematica:
 
-*Order-book's dynamics through Stigler model, considering the agents in the stock market as they put their orders both of bid and ask, analyzing the trend of waiting times and prices of orders : http://tesi.cab.unipd.it/61240/ 
+* Order-book's dynamics through Stigler model, considering the agents in the stock market as they put their orders both of bid and ask, analyzing the trend of waiting times and prices of orders : http://tesi.cab.unipd.it/61240/ 
