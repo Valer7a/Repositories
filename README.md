@@ -1,6 +1,6 @@
 # Repositories
 
-This repository is intended to collect the links bringing to all my projects available in internet:
+This repository is intended to collect the links bringing to all my projects available on the internet:
 
 ### Developed with Python:
 
