@@ -8,7 +8,7 @@ This repository is intended to collect the links bringing to all my projects ava
 * Modelling of a decentralized Hayekian market through behavioral swarm dynamics (in th repository there are both text of thesis and code, code also used for the paper published on "Symmetry" cited in the repository): https://github.com/Valer7a/Cherry-Picking-in-a-Decentralized-Hayekian-Market-with-Quality-described-through-Swam-Theory
 * Classification of gender of the authors of thousands of tweets, analyzing texts and subreddits : https://www.kaggle.com/valeriasecchini/notebook-valeria-secchini-data-mining-project
 * Binary classification of movie reviews (positive/negative) through a merged deep net with the unsupervised algorithms Word2Vec and Doc2Vec  : https://www.kaggle.com/valeriasecchini/text-classif-fine-tuned-word2vec-and-doc2vec
-
+* Classification of names in patent litigation through NLP, deep learning Word2Vec and convolutional neural network : https://www.kaggle.com/valeriasecchini/task5-valeriasecchini
 
 ### Developed with Netlogo:
 
