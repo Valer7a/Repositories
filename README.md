@@ -2,7 +2,7 @@
 
 This repository is intended to collect the links bringing to all my projects available on the internet:
 
-### Developed with Python:
+### Developed in Python:
 
 * Analysis of a network of political books : https://github.com/Valer7a/Analysis-of-Political-Books-Network
 * Modelling of a decentralized Hayekian market through behavioral swarm dynamics (in th repository there are both text of thesis and code, code also used for the paper published on "Symmetry" cited in the repository): https://github.com/Valer7a/Cherry-Picking-in-a-Decentralized-Hayekian-Market-with-Quality-described-through-Swam-Theory
@@ -10,11 +10,11 @@ This repository is intended to collect the links bringing to all my projects ava
 * Binary classification of movie reviews (positive/negative) through a merged deep net with the unsupervised algorithms Word2Vec and Doc2Vec  : https://www.kaggle.com/valeriasecchini/text-classif-fine-tuned-word2vec-and-doc2vec
 * Classification of names in patent litigation through NLP, deep learning Word2Vec and convolutional neural network : https://www.kaggle.com/valeriasecchini/task5-valeriasecchini
 
-### Developed with Netlogo:
+### Developed in Netlogo:
 
 * Through agent-based NetLogo language I developed a project describing a competitive market and analyzing market efficiency both in free trade and with the introduction of a tax : https://terna.to.it/tesineEconofisica/marketEfficiency.htm
 
 
-### Developed with Mathematica:
+### Developed in Mathematica:
 
 * Order-book's dynamics through Stigler model, considering the agents in the stock market as they put their orders both of bid and ask, analyzing the trend of waiting times and prices of orders : http://tesi.cab.unipd.it/61240/ 
